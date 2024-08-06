@@ -1,7 +1,8 @@
 name: cached_s5_audio
-description: A sample command-line application.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: A cached audio provider for S5 CID's.
+version: 0.0.1
+repository: https://github.com/s5-dev/cached_s5_audio
+homepage: https://github.com/s5-dev/cached_s5_audio
 
 environment:
   sdk: ^3.4.4
@@ -21,3 +22,8 @@ dependencies:
 dev_dependencies:
   lints: ^4.0.0
   test: ^1.24.0
+
+topics:
+  - cache
+  - s5
+  - audio
