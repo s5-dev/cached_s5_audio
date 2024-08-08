@@ -1,6 +1,6 @@
 name: cached_s5_audio
 description: A cached audio provider for S5 CID's.
-version: 0.0.1
+version: 0.1.0
 repository: https://github.com/s5-dev/cached_s5_audio
 homepage: https://github.com/s5-dev/cached_s5_audio
 

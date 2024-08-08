@@ -87,15 +87,15 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "1.0.0"
+    version: "0.0.1"
   cached_s5_manager:
     dependency: "direct main"
     description:
       name: cached_s5_manager
-      sha256: f8403566c0a0bdb2610ac1b5a89aa80db0c48279ff4527fef454577155263e97
+      sha256: "75dbe655d6ae7095c2a40357ed4985b4b57d68e849d114ad03f0b301eefbcc2d"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.0"
+    version: "1.2.2"
   characters:
     dependency: transitive
     description:

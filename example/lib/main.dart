@@ -48,7 +48,7 @@ class _CachedS5AudioDemoState extends State<CachedS5AudioDemo> {
 
   void _initS5() async {
     // this is an EXAMPLE s5 node, use your own for maximum performance
-    s5 = await initS5("https://s5.ninja", "hive", null);
+    s5 = await initS5("https://s5.jptr.tech", "hive", null);
     cacheManager = CachedS5Manager(s5: s5!);
     setState(() {}); // to update UI
   }
